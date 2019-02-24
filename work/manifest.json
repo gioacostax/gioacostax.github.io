@@ -1,0 +1,22 @@
+{
+  "name": "App Web",
+  "short_name": "app-web",
+  "description": "Simple React Boilerplate Project",
+  "version": "0.1.1",
+  "author": "Giorgio Acosta",
+  "homepage_url": "https://github.com/gioacostax/app-web/",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg",
+      "sizes": "200x200"
+    }
+  ],
+  "browser_action": {
+    "default_icon": "favicon.svg",
+    "default_title": "App Web"
+  },
+  "manifest_version": 2
+}
