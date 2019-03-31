@@ -1,0 +1,26 @@
+{
+  "name": "App-Web",
+  "short_name": "app-web",
+  "description": "React Starter Kit",
+  "version": "0.0.15",
+  "homepage_url": "https://app.giorgio.work/app-web",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "browser_action": {
+    "default_icon": "favicon.png",
+    "default_title": "App-Web"
+  },
+  "manifest_version": 2,
+  "app.css": "app.8bb719.css",
+  "app.js": "app.60264d.js",
+  "vendors.js": "vendors.c16f31.js",
+  "favicon.png": "favicon.png",
+  "index.html": "index.html"
+}
