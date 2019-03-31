@@ -18,9 +18,10 @@
     "default_title": "App-Web"
   },
   "manifest_version": 2,
-  "app.js": "app.82e18b.js",
-  "vendors.js": "vendors.bba239.js",
-  "assets/subset-Roboto-Regular.woff2": "assets/subset-Roboto-Regular.11152e.woff2",
+  "app.css": "app.9c426c.css",
+  "app.js": "app.74a155.js",
+  "vendors.js": "vendors.c16f31.js",
+  "assets/index.scss": "assets/subset-Roboto-Regular.11152e.woff2",
   "favicon.png": "favicon.png",
   "index.html": "index.html"
 }
