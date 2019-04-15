@@ -5,7 +5,6 @@
   "version": "0.0.15",
   "homepage_url": "https://app.giorgio.work/app-web",
   "display": "standalone",
-  "start_url": "/",
   "icons": [
     {
       "src": "favicon.png",
@@ -18,10 +17,10 @@
     "default_title": "App-Web"
   },
   "manifest_version": 2,
-  "app.css": "app.9c426c.css",
-  "app.js": "app.74a155.js",
-  "vendors.js": "vendors.c16f31.js",
-  "assets/index.scss": "assets/subset-Roboto-Regular.11152e.woff2",
+  "app.css": "app.fa8f80.css",
+  "app.js": "app.1a9f96.js",
+  "vendors.js": "vendors.557ed4.js",
+  "assets/index.scss": "assets/roboto-latin-500.285467.woff2",
   "favicon.png": "favicon.png",
   "index.html": "index.html"
 }
