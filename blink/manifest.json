@@ -1,0 +1,25 @@
+{
+  "name": "Blink",
+  "short_name": "blink",
+  "description": "Design System",
+  "version": "1.0.0",
+  "homepage_url": "https://blink.giorgio.work",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "browser_action": {
+    "default_icon": "favicon.png"
+  },
+  "manifest_version": 2,
+  "main.css": "/main.0c7558.css",
+  "main.js": "/main.fedfe0.js",
+  "vendors.js": "/vendors.539c9e.js",
+  "assets/index.scss": "/assets/SFProDisplay-Regular.8700c2.woff",
+  "favicon.png": "/favicon.png",
+  "index.html": "/index.html"
+}
