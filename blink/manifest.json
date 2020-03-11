@@ -3,7 +3,7 @@
   "short_name": "blink",
   "description": "Design System",
   "version": "1.0.0",
-  "homepage_url": "https://blink.giorgio.work",
+  "homepage_url": "https://app.giorgio.work",
   "display": "standalone",
   "icons": [
     {
@@ -16,10 +16,10 @@
     "default_icon": "favicon.png"
   },
   "manifest_version": 2,
-  "main.css": "/main.923b0f.css",
-  "main.js": "/main.76c62d.js",
-  "vendors.js": "/vendors.bc17fb.js",
-  "assets/index.scss": "/assets/SFProDisplay-Regular.8700c2.woff",
-  "favicon.png": "/favicon.png",
-  "index.html": "/index.html"
+  "main.css": "/blink/main.57606f.css",
+  "main.js": "/blink/main.4bef93.js",
+  "vendors.js": "/blink/vendors.bc17fb.js",
+  "assets/index.scss": "/blink/assets/SFProDisplay-Regular.8700c2.woff",
+  "favicon.png": "/blink/favicon.png",
+  "index.html": "/blink/index.html"
 }
