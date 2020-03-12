@@ -1,6 +1,6 @@
 {
   "name": "Blink",
-  "short_name": "blink",
+  "short_name": "Reto1",
   "description": "Design System",
   "version": "1.0.0",
   "homepage_url": "https://app.giorgio.work",
@@ -16,14 +16,14 @@
     "default_icon": "favicon.png"
   },
   "manifest_version": 2,
-  "main.css": "/pragma/reto1main.68dffc.css",
-  "main.js": "/pragma/reto1main.c01c4d.js",
-  "vendors.js": "/pragma/reto1vendors.539c9e.js",
-  "assets/index.scss": "/pragma/reto1assets/SFProDisplay-Regular.8700c2.woff",
-  "favicon.png": "/pragma/reto1favicon.png",
-  "index.html": "/pragma/reto1index.html",
-  "logo.png": "/pragma/reto1logo.png",
-  "logo2.png": "/pragma/reto1logo2.png",
-  "pattern.svg": "/pragma/reto1pattern.svg",
-  "pattern2.svg": "/pragma/reto1pattern2.svg"
+  "main.css": "/pragma/reto1/main.db7193.css",
+  "main.js": "/pragma/reto1/main.fe2e12.js",
+  "vendors.js": "/pragma/reto1/vendors.539c9e.js",
+  "assets/index.scss": "/pragma/reto1/assets/SFProDisplay-Regular.8700c2.woff",
+  "favicon.ico": "/pragma/reto1/favicon.ico",
+  "index.html": "/pragma/reto1/index.html",
+  "logo.png": "/pragma/reto1/logo.png",
+  "logo2.png": "/pragma/reto1/logo2.png",
+  "pattern.svg": "/pragma/reto1/pattern.svg",
+  "pattern2.svg": "/pragma/reto1/pattern2.svg"
 }
