@@ -1,0 +1,33 @@
+{
+  "name": "Login",
+  "short_name": "Reto1",
+  "description": "Design System",
+  "version": "1.0.0",
+  "homepage_url": "https://app.giorgio.work",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "browser_action": {
+    "default_icon": "favicon.png"
+  },
+  "manifest_version": 2,
+  "main.css": "/pragma/reto1/main.c3e672.css",
+  "main.js": "/pragma/reto1/main.ad8ff5.js",
+  "vendors.js": "/pragma/reto1/vendors.539c9e.js",
+  "assets/index.scss": "/pragma/reto1/assets/Nunito-SemiBold.d145b4.woff",
+  "bg2.png": "/pragma/reto1/bg2.png",
+  "favicon.ico": "/pragma/reto1/favicon.ico",
+  "index.html": "/pragma/reto1/index.html",
+  "info.png": "/pragma/reto1/info.png",
+  "logo2.png": "/pragma/reto1/logo2.png",
+  "lottie.js": "/pragma/reto1/lottie.js",
+  "pattern.svg": "/pragma/reto1/pattern.svg",
+  "pattern2.svg": "/pragma/reto1/pattern2.svg",
+  "phone.png": "/pragma/reto1/phone.png",
+  "snake.json": "/pragma/reto1/snake.json"
+}
